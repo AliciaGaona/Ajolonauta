@@ -4,3 +4,6 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:AliciaGaona/BlogDelAjolonauta.git
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = git@github.com:AliciaGaona/hugo-theme-stack.git
