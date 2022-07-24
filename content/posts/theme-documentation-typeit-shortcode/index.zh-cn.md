@@ -112,3 +112,6 @@ public class HelloWorld {
 {{< typeit group=paragraph >}}
 **然后**, 这个段落开始
 {{< /typeit >}}
+
+
+hi
